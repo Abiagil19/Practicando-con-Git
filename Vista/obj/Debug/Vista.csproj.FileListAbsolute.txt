@@ -1,0 +1,13 @@
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\bin\Debug\Vista.exe.config
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\bin\Debug\Vista.exe
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\bin\Debug\Vista.pdb
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.Inventario.FrmDashboardPrincipal.resources
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.exe
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.pdb
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.exe.config
+C:\Users\abi60\source\repos\Sistema de Tickets\Vista\obj\Debug\Vista.Dashboard.FrmGestiondeMateriales.resources
